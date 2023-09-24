@@ -1,0 +1,24 @@
+{
+	"name": "Titanium drill",
+	"description": "Better than pneumatic",
+	"type": "Drill",
+	"size": 2,
+	"tier": 4,
+	"drillTime": 100,
+	"buildCostMultiplier": 0.6,
+	"consumes": {
+		"liquid": {
+			"liquid": "water", 
+			"amount": 0.2,
+			"booster": true
+			"optional": true
+		}
+		},
+	"requirements": [
+		{ "item": "titanium", "amount": 100 },
+		{ "item": "lead", "amount": 150 },
+		{ "item": "graphite", "amount": 100 }
+	],
+	"category": "production",
+	"research": "pneumatic-drill"
+}

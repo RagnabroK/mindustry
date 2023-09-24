@@ -1,0 +1,7 @@
+name: "Titanium Drill"
+displayName: "Titanium Drill"
+author: RagnabroK
+description: "A bit better than the pneumatic drill"
+version: "1.2"
+minGameVersion: "140.4"
+hidden: false
